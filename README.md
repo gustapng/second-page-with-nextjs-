@@ -39,4 +39,5 @@ This will start the development server at http://localhost:3000. Open your brows
 
 ## View the project in
 
-    https://second-page-with-nextjs.vercel.app/
+<a target="_blank" href="https://second-page-with-nextjs.vercel.app/
+">Click Here</a>
