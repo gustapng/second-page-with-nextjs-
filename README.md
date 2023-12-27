@@ -37,7 +37,6 @@ or, with Yarn:
 
 This will start the development server at http://localhost:3000. Open your browser and navigate to this address to view the project.
 
-## View the project in
+## View the project online in
 
-<a target="_blank" href="https://second-page-with-nextjs.vercel.app/
-">Click Here</a>
+<a target="_blank" href="https://second-page-with-nextjs.vercel.app/">Click Here</a>
